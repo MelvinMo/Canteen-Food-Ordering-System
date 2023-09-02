@@ -5,15 +5,15 @@ This project entails the development of an online canteen food ordering and mana
 More technically, the system is built using PHP and utilizes a MySQL database to store and manage data. The front-end user interface is designed using HTML, CSS, and JavaScript, providing an intuitive and user-friendly experience for customers and administrators.
 
 Some key components and functionalities:
-- 1. User Registration and Authentication:
+1. User Registration and Authentication:
 The system requires customers to register and authenticate themselves before placing orders. Administrators can also register and manage user accounts for shop staff and other authorized personnel.
-- 2. Shop and Menu Management:
+2. Shop and Menu Management:
 Administrators can add, edit, and manage shop information, including names, descriptions, and menus. Menus can be organized into categories, and items can be added or removed as needed.
-- 3. Order Management:
+3. Order Management:
 Customers can browse menus, add items to their carts, and place orders. They can also view their order history and status. Administrators can manage customer orders, including processing payments, marking orders as fulfilled, and canceling orders.
-- 4. Revenue Reporting:
+4. Revenue Reporting:
 Administrators can generate revenue reports based on sales data, including daily, weekly, and monthly reports.
-- 5. User Management:
+5. User Management:
 Administrators can manage user accounts, including adding, editing, and deleting user profiles. They can also assign permissions and access levels to different user roles.
 
 Tools and technologies used:
