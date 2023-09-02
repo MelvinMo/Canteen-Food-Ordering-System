@@ -1,0 +1,82 @@
+.edit-form-container {
+    text-align: center;
+    width: 100%;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    font-family: Arial, sans-serif;
+  }
+
+.edit-form-label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.edit-form-input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+    font-size: 14px;
+}
+
+.edit-form-buttons {
+    text-align: right  
+}
+
+.edit-form-buttons button {
+    margin-left: 10px;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+button[value="Save"] {
+background-color: #37c23c;
+color: white;
+}
+
+button[value="Cancel"] {
+background-color: #e83d30;
+color: white;
+}
+
+/* 
+input[name="%_e"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+button[value="Save"] {
+    justify-content: center;
+    display: inline;
+    width: 40%   ;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button[value="Save"]:hover {
+    background-color: #45a049;
+}
+
+button[value="Cancel"] {
+    justify-content: center;    
+    display: inline;
+    width: 40%;
+    padding: 10px;
+    background-color: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+} */
