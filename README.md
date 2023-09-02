@@ -22,4 +22,4 @@ Tools and technologies used:
 - **JavaScript:** JavaScript will be used to add interactivity to the user interface, including animations, pop-up windows, and form validation.
 - **PHP 8.0.9:** The application will be built using PHP 8.0.9, which will handle server-side scripting and interact with the MySQL database.
 - **MySQL Database:** The system will use a MySQL database to store and manage data, including customer information, shop data, menus, and orders.
-- Bootstrap 5.2.3: The application will use Bootstrap 5.2.3, a popular front-end framework, to ensure a responsive and mobile-friendly design.
+- **Bootstrap 5.2.3:** The application will use Bootstrap 5.2.3, a popular front-end framework, to ensure a responsive and mobile-friendly design.
